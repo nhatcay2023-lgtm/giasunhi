@@ -1,0 +1,6 @@
+{
+  "name": "Gia Sư Nhí AI",
+  "description": "Gia sư AI lớp 1 thông minh: trò chuyện giọng nói, giải toán đố, bài học offline, mini game và báo cáo phụ huynh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered within 66dp safe zone (coordinates 21 to 87) -->
+    
+    <!-- Open Book Base -->
+    <path
+        android:fillColor="#F1F5F9"
+        android:pathData="M34,68 C38,65 46,65 54,68 C62,65 70,65 74,68 L74,78 C70,75 62,75 54,78 C46,75 38,75 34,78 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M53,68 L53,78 L55,78 L55,68 Z" />
+
+    <!-- Cute Graduation Cap / Scholar Hat -->
+    <path
+        android:fillColor="#FACC15"
+        android:pathData="M54,28 L78,40 L54,52 L30,40 Z" />
+    <path
+        android:fillColor="#EAB308"
+        android:pathData="M40,46 L40,56 C40,62 68,62 68,56 L68,46 L54,53 Z" />
+        
+    <!-- Tassel and button -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M54,38m-3,0a3,3 0 1,0 6,0a3,3 0 1,0 -6,0" />
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M54,39 Q72,42 75,54 L73,55 Q71,43 54,41 Z" />
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M75,54m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0" />
+
+    <!-- Shiny Magic Star / Sparkle in Center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,44 L56,48 L60,48 L57,51 L58,55 L54,52 L50,55 L51,51 L48,48 L52,48 Z" />
+</vector>
